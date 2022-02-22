@@ -27,15 +27,15 @@ Launch the app
 ## Screenshots
 
 ### home page :point_down:
-<kbd>![home page](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/home.png)</kbd>
+<kbd>![home page](https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/%2Cmnm.png)</kbd>
 ### Cart :point_down:
-<kbd>![cart](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart.png)</kbd>
-### user order :point_down:
-<kbd>![user profile](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/user_order.png)</kbd>
+<kbd>![cart](https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/lkl.png)</kbd>
+### user chechout :point_down:
+<kbd>![user profile](https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/jjol.png)</kbd>
 ### admin dashboard :point_down:
-<kbd>![admin dashboard](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/admin_dashboard.png)</kbd>
+<kbd>![admin dashboard](https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/kk.png)</kbd>
 
 ### responsive :tired_face:
 
-<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/orders_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/adminORD_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/shop_on_phone.jpg" alt="drawing" height="350"/></kbd>
+<kbd><img src="https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/lk.png" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/lm.png" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/toqaayman/E-commerce-Website-laravel/blob/main/public/screens/lmkk.png" alt="drawing" height="350"/></kbd></kbd>
 
